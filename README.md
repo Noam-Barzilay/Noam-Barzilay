@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Noam-Barzilay
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning computer science
+- 👋 Hi, I’m Noam Barzilay
+- 👀 I’m interested in software development and cyber security
 - 📫 How to reach me: barzilay460@gmail.com, www.linkedin.com/in/noam-barzilay-734247280
 
 <!---
